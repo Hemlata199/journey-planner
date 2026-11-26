@@ -1,0 +1,4 @@
+# one route per line: name: stops
+R1: 1 2 3
+R2: 3 4 5
+R3: 1 9 5
